@@ -1,8 +1,3 @@
----
-title: iT鐵人邦-Day02
-tags: iT鐵人邦
----
-
 # 【Day 02】從零開始的 Line Chatbot 系統－序章 Part 2
 
 ## 認識一些軟體開發的專業術語
