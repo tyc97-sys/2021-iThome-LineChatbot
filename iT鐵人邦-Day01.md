@@ -1,7 +1,3 @@
----
-title: iT鐵人邦-Day01
-tags: iT鐵人邦
----
 # 【Day 01】從零開始的 Line Chatbot 系統－序章
 暑假後期，指導教授給了[第三屆 Line Chatbot 設計大賽](https://contest.bhuntr.com/tw/fklc6b98o0ueubrzel/home/)的資訊。
 
