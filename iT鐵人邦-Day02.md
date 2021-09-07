@@ -66,7 +66,28 @@ with open(path, 'r', encoding='utf-8') as f:
 
 找到好的 IDE，還有適合自己的 IDE 可以大大增加 coding 效率，這就是所謂 **工欲善其事，必先利其器**！
 
+## SDK
+
+下一個在軟體開發常見的術語－SDK，Software Development Kit，中文翻譯：軟體開發套件。
+
+SDK 被開發出來是為了減少工程師的工作量。
+
+SDK 會包含整個軟體在特定平台上開發的工具，會是一整個大包集合，同時 API 也有可能會被一起打包進 SDK 裡面，同時 SDK 可以打包超過一個以上的 APIs。
+
+假設你要開發一個 Windows 系統上的功能，我們就可以使用 Windows SDK，要開發 iOS 系統上的功能，我們可以使用 iOS SDK。使用這些 SDK 就可以在開始寫程式前弄好該用的環境設定，這可以大大減少工程師的工作量。
+
+### API vs SDK
+
+他們兩者的差異就在於，SDK 是一個集大成的**工具包**（或可以稱為工具箱，或是...工具人XD）
+
+上面講到，如果我們要開發 iOS 環境可以先使用 iOS SDK，裡面就會包含多種 APIs，可單獨使用或是互相呼叫，並且還會有 documentation（官方手冊，我都這麼稱呼它）供開發者參考，最後可能還有模擬器可以模擬在 iOS 環境上的
+
+所以什麼時候會單獨使用到 API？
+當你是在**網路**開發一個功能，例如 Google Map API，我想在我的網頁設計裡加上 Google Map 的功能我就會去調用他們開發的 API 直接使用。
+
 ---
+
+Day 02 字數有點多，才能讓我們盡快進入 Line Chatbot 的主題！
 
 **Ref.**
 - [What Is an IDE?](https://www.codecademy.com/articles/what-is-an-ide)
