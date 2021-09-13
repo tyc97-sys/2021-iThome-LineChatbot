@@ -1,8 +1,11 @@
+<<<<<<< HEAD
 ---
 title: iT鐵人邦-Day03
 tags: iT鐵人邦
 ---
 
+=======
+>>>>>>> e8a464e08d6653b733dc93eba91e937458991bd6
 # 【Day 03】從零開始的 Line Chatbot－建立專案
 
 今天要來正式建立 Chatbot 的 Python 專案！
@@ -112,9 +115,18 @@ INSTALLED_APPS = [
 ### 寫一個最最最基本的 `echo` Chatbot
 
 我們先來看另一個檔案 `django_chatbot/views.py`，這個檔案可以算是 Chatbot 的主程式(?)。
+<<<<<<< HEAD
 我們會把 Chatbot 接收訊息後要執行的內容寫在 `def callback(request):` 裡。
 
 我們來試寫一個最基本的 Chatbot，`echo`，Chatbot 會回傳使用者輸入的文字內容。
+=======
+
+我們會把 Chatbot 接收訊息後要執行的內容寫在 `def callback(request):` 裡。
+
+
+我們來試寫一個最基本的 Chatbot，`echo`，Chatbot 會回傳使用者輸入的文字內容。
+
+>>>>>>> e8a464e08d6653b733dc93eba91e937458991bd6
 *範例取自官方 documentation*
 
 ```python=
@@ -163,8 +175,15 @@ def callback(request):
 **雖然目前我們把 Chatbot 的主要功能都寫出來的，可是到目前為止，還不能執行。**
 
 我們要把網址公開才可以讓這個機器人連結到我們的 channel，這樣機器人才可以回應我們寫的主要功能。
+<<<<<<< HEAD
 明天會繼續講解如何公開網址連結 channel。
 
+=======
+
+明天會繼續講解如何公開網址連結 channel。
+
+
+>>>>>>> e8a464e08d6653b733dc93eba91e937458991bd6
 *之後的幾天都會慢慢把挖出來的坑給填起來！*
 
 
