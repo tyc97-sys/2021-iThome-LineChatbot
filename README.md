@@ -9,4 +9,4 @@
 ### 文章
 + [【Day 01】從零開始的 Line Chatbot－序章](https://github.com/tyc97-sys/2021-iThome-LineChatbot/blob/5ad69afd9b3d04f71b78b499c18b414e699c937d/iT%E9%90%B5%E4%BA%BA%E9%82%A6-Day01.md)
 + [【Day 02】從零開始的 Line Chatbot－序章 part 2](https://github.com/tyc97-sys/2021-iThome-LineChatbot/blob/f7d18c169928f5137003ffa67cf4db61e6b05a5d/iT%E9%90%B5%E4%BA%BA%E9%82%A6-Day02.md)
-+ [【Day 02】從零開始的 Line Chatbot－建立專案](https://github.com/tyc97-sys/2021-iThome-LineChatbot/blob/3ba97ad55dd58abeb88020b348a82dbf9f5ff938/iT%E9%90%B5%E4%BA%BA%E9%82%A6-Day03.md)
++ [【Day 03】從零開始的 Line Chatbot－建立專案](https://github.com/tyc97-sys/2021-iThome-LineChatbot/blob/3ba97ad55dd58abeb88020b348a82dbf9f5ff938/iT%E9%90%B5%E4%BA%BA%E9%82%A6-Day03.md)
