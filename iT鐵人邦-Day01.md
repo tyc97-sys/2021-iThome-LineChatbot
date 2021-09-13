@@ -1,3 +1,7 @@
+---
+title: iT鐵人邦-Day01
+tags: iT鐵人邦
+---
 # 【Day 01】從零開始的 Line Chatbot 系統－序章
 暑假後期，指導教授給了[第三屆 Line Chatbot 設計大賽](https://contest.bhuntr.com/tw/fklc6b98o0ueubrzel/home/)的資訊。
 
@@ -26,6 +30,12 @@ API 是 Application Programming Interface 的縮寫，也就是所謂的應用�
 服務員會將點完的單轉達給內場，剩下交由內場去處理，等內場處理好，**最後會進行餐點確認的動作**，才會交給客人。
 
 所以 API 也一樣，錯誤訊息（Error message）也很重要，我們要把錯誤訊息呈現在應用程式上。
+
+![](https://i.imgur.com/j3pqcDi.jpg)
+
+
+<!--API 圖片 重畫 ![](https://i.imgur.com/kSNV3fl.png)
+-->
 
 ---
 
