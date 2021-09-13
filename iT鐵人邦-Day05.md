@@ -1,8 +1,3 @@
----
-title: iT鐵人邦-Day05
-tags: iT鐵人邦
----
-
 # 【Day 05】從零開始的 Line Chatbot－公開 APP 網址
 
 昨天稍微簡介了一下 ngrok 在做甚麼，今天我們要讓我們的 Line Channel 公開，這個 Chatbot 才可以真正運作！
