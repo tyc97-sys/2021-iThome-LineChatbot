@@ -1,5 +1,5 @@
 # 【Day 02】從零開始的 Line Chatbot 系統－序章 Part 2
-
+###### tags: iT鐵人邦
 ## 認識一些軟體開發的專業術語
 
 在做軟體專案的時候，常常會看到一些英文簡寫，像是 Day 01 講到的 API，還有像是 IDE、SDK 等等術語。
@@ -66,6 +66,7 @@ with open(path, 'r', encoding='utf-8') as f:
 
 找到好的 IDE，還有適合自己的 IDE 可以大大增加 coding 效率，這就是所謂 **工欲善其事，必先利其器**！
 
+
 ## SDK
 
 下一個在軟體開發常見的術語－SDK，Software Development Kit，中文翻譯：軟體開發套件。
@@ -88,6 +89,8 @@ SDK 會包含整個軟體在特定平台上開發的工具，會是一整個大�
 ---
 
 Day 02 字數有點多，才能讓我們盡快進入 Line Chatbot 的主題！
+
+
 
 **Ref.**
 - [What Is an IDE?](https://www.codecademy.com/articles/what-is-an-ide)

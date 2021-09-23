@@ -1,12 +1,12 @@
 # 【Day 04】從零開始的 Line Chatbot－連線
-
+###### tags: iT鐵人邦
 昨天提到建立 Chatbot 專案，但是雖然已經把主要的邏輯運算都寫好了，但是還不能執行，因為我們還沒有進行連線！
 
 ## 連線
 
 在 `def callback` 中，會偵測到使用者是否有事件傳入（也就是有沒有使用者傳入訊息），之後就會透過 Python 迴圈去處理。
 
-不過，接下來我們還要設定 Line Bot APP 的連結網址，所以我們要建立一個**新的檔案** `Nutrition/urls.py`，加入以下網址設定：
+不過，接下來我們還要設定 Line Bot APP 的連結網址，所以我們要建立一個**新的檔案** `django_chatbot/urls.py`，加入以下網址設定：
 
 ```python
 from django.urls import path

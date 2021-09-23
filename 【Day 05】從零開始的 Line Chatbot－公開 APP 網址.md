@@ -1,5 +1,5 @@
 # 【Day 05】從零開始的 Line Chatbot－公開 APP 網址
-
+###### tags: iT鐵人邦
 昨天稍微簡介了一下 ngrok 在做甚麼，今天我們要讓我們的 Line Channel 公開，這個 Chatbot 才可以真正運作！
 
 > ngrok 是一個可以讓內網伺服器與外界溝通的一個服務。
@@ -92,7 +92,7 @@ python manage.py runserver
 
 請先執行
 ```shell
-python manage.py makemigrations NutritionBot
+python manage.py makemigrations django_chatbot
 python manage.py migrate
 ```
 

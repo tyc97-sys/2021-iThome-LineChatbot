@@ -1,8 +1,5 @@
----
-title: iT鐵人邦-Day01
-tags: iT鐵人邦
----
 # 【Day 01】從零開始的 Line Chatbot 系統－序章
+###### tags: iT鐵人邦
 暑假後期，指導教授給了[第三屆 Line Chatbot 設計大賽](https://contest.bhuntr.com/tw/fklc6b98o0ueubrzel/home/)的資訊。
 
 雖然比賽內容主要放在**設計**、**創意**與**商業價值**，但既然機會難得，那就自己來寫一個聊天機器人吧！
@@ -32,10 +29,6 @@ API 是 Application Programming Interface 的縮寫，也就是所謂的應用�
 所以 API 也一樣，錯誤訊息（Error message）也很重要，我們要把錯誤訊息呈現在應用程式上。
 
 ![](https://i.imgur.com/j3pqcDi.jpg)
-
-
-<!--API 圖片 重畫 ![](https://i.imgur.com/kSNV3fl.png)
--->
 
 ---
 
